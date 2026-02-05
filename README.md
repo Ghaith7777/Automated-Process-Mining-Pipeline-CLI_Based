@@ -3,6 +3,9 @@
 This project implements a reusable command-line pipeline for discovering process maps from event logs using Directly-Follows Graphs (DFG).
 
 It was built as a portfolio project to demonstrate practical process-mining workflows, KPI engineering, and clean Python tooling rather than as a research prototype.
+
+<img width="1836" height="492" alt="image" src="https://github.com/user-attachments/assets/09c0036c-c6e2-448f-8a3e-cbd985ad3766" />
+
 ## Overview
 
 This tool analyzes event logs to extract process structure and operational metrics. It's ideal for business process improvement, compliance auditing, and workflow optimization across industries (healthcare, finance, manufacturing, logistics).
