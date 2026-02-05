@@ -1,1 +1,1 @@
-# Mini-Process-Mapping-Mining-DFG-Portfolio-Project
+  # Automated Process Mining Pipeline (CLI_Based)
