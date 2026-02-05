@@ -1,0 +1,21 @@
+source,target,frequency
+First Notification of Loss (FNOL),Assign Claim,29807
+Payment Sent,Close Claim,29633
+Assign Claim,Claim Decision,29621
+Set Reserve,Payment Sent,29456
+Claim Decision,Set Reserve,29444
+Assign Claim,Set Reserve,371
+Set Reserve,Close Claim,359
+Claim Decision,Payment Sent,358
+First Notification of Loss (FNOL),Claim Decision,192
+Claim Decision,Assign Claim,190
+Payment Sent,Set Reserve,182
+Set Reserve,Claim Decision,180
+Close Claim,Payment Sent,178
+Assign Claim,Payment Sent,8
+Claim Decision,Close Claim,8
+Payment Sent,Claim Decision,7
+Set Reserve,Assign Claim,2
+Close Claim,Set Reserve,2
+First Notification of Loss (FNOL),Set Reserve,1
+Payment Sent,Assign Claim,1

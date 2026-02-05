@@ -1,0 +1,25 @@
+{
+  "cases": 30000,
+  "events": 180000,
+  "unique_activities": 6,
+  "avg_events_per_case": 6.0,
+  "time_window": {
+    "first_event": "2020-04-06 07:50:45.322658+00:00",
+    "last_event": "2023-05-26 01:49:58.261710+00:00"
+  },
+  "throughput_hours": {
+    "mean": 840.3670467974897,
+    "median": 840.6261942458333,
+    "min": 405.6954986752778,
+    "max": 1298.9806292772223,
+    "p95": 1016.2113771509166
+  },
+  "activity_frequency_top10": {
+    "First Notification of Loss (FNOL)": 30000,
+    "Assign Claim": 30000,
+    "Claim Decision": 30000,
+    "Set Reserve": 30000,
+    "Payment Sent": 30000,
+    "Close Claim": 30000
+  }
+}
